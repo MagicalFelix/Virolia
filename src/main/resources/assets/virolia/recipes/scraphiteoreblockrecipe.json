@@ -1,0 +1,42 @@
+{
+  "group": "virolia",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "virolia:scraphite"
+    },
+    "1": {
+      "item": "virolia:scraphite"
+    },
+    "2": {
+      "item": "virolia:scraphite"
+    },
+    "3": {
+      "item": "virolia:scraphite"
+    },
+    "4": {
+      "item": "virolia:scraphite"
+    },
+    "5": {
+      "item": "virolia:scraphite"
+    },
+    "6": {
+      "item": "virolia:scraphite"
+    },
+    "7": {
+      "item": "virolia:scraphite"
+    },
+    "8": {
+      "item": "virolia:scraphite"
+    }
+  },
+  "result": {
+    "item": "virolia:scraphiteoreblock",
+    "count": 1
+  }
+}

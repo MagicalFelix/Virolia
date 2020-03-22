@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "virolia:blocks/scraphite_ore",
+    "particle": "virolia:blocks/scraphite_ore"
+  }
+}

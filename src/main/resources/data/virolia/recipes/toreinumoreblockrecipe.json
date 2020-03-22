@@ -1,0 +1,42 @@
+{
+  "group": "virolia",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "virolia:toreinumingot"
+    },
+    "1": {
+      "item": "virolia:toreinumingot"
+    },
+    "2": {
+      "item": "virolia:toreinumingot"
+    },
+    "3": {
+      "item": "virolia:toreinumingot"
+    },
+    "4": {
+      "item": "virolia:toreinumingot"
+    },
+    "5": {
+      "item": "virolia:toreinumingot"
+    },
+    "6": {
+      "item": "virolia:toreinumingot"
+    },
+    "7": {
+      "item": "virolia:toreinumingot"
+    },
+    "8": {
+      "item": "virolia:toreinumingot"
+    }
+  },
+  "result": {
+    "item": "virolia:toreinumoreblock",
+    "count": 1
+  }
+}

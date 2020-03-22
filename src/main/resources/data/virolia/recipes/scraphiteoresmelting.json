@@ -1,0 +1,11 @@
+{
+  "group": "virolia",
+  "type": "minecraft:smelting",
+  "experience": 0.5,
+  "ingredient": {
+    "item": "virolia:lurocobblestone"
+  },
+  "result": {
+    "item": "virolia:lurostone"
+  }
+}

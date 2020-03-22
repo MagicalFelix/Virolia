@@ -1,0 +1,19 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 0,
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:ScraphiteOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Scraphite"
+    },
+    "smeltingXPReward": 1.0499999999999998,
+    "smeltingRetstackSize": 1,
+    "name": "scraphiteoresmelting",
+    "namespace": "mod"
+  }
+}

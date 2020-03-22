@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "virolia:virolia_portal_ew"
+    },
+    "axis=x": {
+      "model": "virolia:virolia_portal_ns"
+    },
+    "inventory": {
+      "model": "virolia:virolia_portal_ns"
+    }
+  }
+}

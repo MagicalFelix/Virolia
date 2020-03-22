@@ -1,0 +1,19 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 0,
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Lurocobblestone"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Lurostone"
+    },
+    "smeltingXPReward": 0.5,
+    "smeltingRetstackSize": 1,
+    "name": "scraphiteoresmelting",
+    "namespace": "mod"
+  }
+}

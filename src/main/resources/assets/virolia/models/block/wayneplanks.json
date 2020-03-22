@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "virolia:blocks/jungle_planks",
+    "particle": "virolia:blocks/jungle_planks"
+  }
+}

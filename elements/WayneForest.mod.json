@@ -1,0 +1,66 @@
+{
+  "_fv": 5,
+  "_type": "biome",
+  "definition": {
+    "name": "Mironian Plains",
+    "groundBlock": {
+      "value": "CUSTOM:LurograssBlock"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Lurodirt"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 6,
+    "spawnVines": true,
+    "treeVines": {
+      "value": "CUSTOM:WayneLeaves"
+    },
+    "treeStem": {
+      "value": "CUSTOM:WayneLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:WayneLeaves"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -9804968,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -10525115,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -8288403,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 8,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.0,
+    "temperature": 0.5,
+    "baseHeight": 0.2,
+    "heightVariation": 0.3,
+    "spawnBiome": false,
+    "biomeWeight": 10,
+    "biomeType": "WARM",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnList": []
+  }
+}

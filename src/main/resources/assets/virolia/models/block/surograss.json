@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "virolia:blocks/surograss",
+    "particle": "virolia:blocks/surograss"
+  }
+}

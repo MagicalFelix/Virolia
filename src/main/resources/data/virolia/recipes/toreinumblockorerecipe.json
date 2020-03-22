@@ -1,0 +1,13 @@
+{
+  "group": "virolia",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "virolia:toreinumoreblock"
+    }
+  ],
+  "result": {
+    "item": "virolia:toreinumingot",
+    "count": 9
+  }
+}

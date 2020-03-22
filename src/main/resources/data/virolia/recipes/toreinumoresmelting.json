@@ -1,0 +1,11 @@
+{
+  "group": "virolia",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "ingredient": {
+    "item": "virolia:toreinumore"
+  },
+  "result": {
+    "item": "virolia:toreinumingot"
+  }
+}

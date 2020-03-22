@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "surograss",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "name": "Surograss",
+    "creativeTab": {
+      "value": "DECORATIONS"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "Blocks.AIR"
+    },
+    "dropAmount": 1,
+    "isReplaceable": true,
+    "isFlammable": true,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "frequencyOnChunks": 28,
+    "spawnWorldTypes": [
+      "CUSTOM:Virolia"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:MironianPlains"
+      },
+      {
+        "value": "CUSTOM:WayneForest"
+      }
+    ]
+  }
+}

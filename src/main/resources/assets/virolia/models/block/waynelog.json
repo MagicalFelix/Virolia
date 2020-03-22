@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "virolia:blocks/jungle_log_top",
+    "up": "virolia:blocks/jungle_log_top",
+    "north": "virolia:blocks/jungle_log",
+    "east": "virolia:blocks/jungle_log",
+    "south": "virolia:blocks/jungle_log",
+    "west": "virolia:blocks/jungle_log",
+    "particle": "virolia:blocks/jungle_log_top"
+  }
+}

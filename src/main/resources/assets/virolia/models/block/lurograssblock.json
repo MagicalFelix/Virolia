@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "virolia:blocks/dirt",
+    "up": "virolia:blocks/grass_block_top",
+    "north": "virolia:blocks/grass_block_side",
+    "east": "virolia:blocks/grass_block_side",
+    "south": "virolia:blocks/grass_block_side",
+    "west": "virolia:blocks/grass_block_side",
+    "particle": "virolia:blocks/dirt"
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "id_map": {
+    "DIMENSION": 1
+  },
+  "mod_elements": [
+    {
+      "name": "ScraphiteOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ScraphiteOreBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ScraphiteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ScraphiteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ScraphiteOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Lurostone",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Scraphite",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ScraphiteFuel",
+      "type": "fuel",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Lurocobblestone",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LurocobblestoneToLurostone",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ToreinumOre",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ToreinumOreBlock",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ToreinumIngot",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ToreinumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ToreinumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ToreinumOreSmelting",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Lurodirt",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LurograssBlock",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Surograss",
+      "type": "plant",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Virolia",
+      "type": "dimension",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      }
+    },
+    {
+      "name": "MironianPlains",
+      "type": "biome",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "WayneForest",
+      "type": "biome",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "WayneLog",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "WayneLeaves",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "WaynePlanks",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MrozyBluet",
+      "type": "plant",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "tile.toreinumoreblock.name": "Block of Toreinum",
+      "item.virolia.toreinumingot": "Toreinum",
+      "block.virolia.lurograssblock": "Lurograss Block",
+      "tile.scraphiteore.name": "Scraphite Ore",
+      "block.virolia.surograss": "Surograss",
+      "tile.surograss.name": "Surograss",
+      "block.virolia.toreinumore": "Toreinum Ore",
+      "biome.virolia.wayneforest": "Mironian Plains",
+      "tile.wayneplanks.name": "Wayne Log",
+      "block.virolia.lurostone": "Lurostone",
+      "block.virolia.scraphiteoreblock": "Block of Scraphite",
+      "item.scraphite.name": "Scraphite",
+      "tile.scraphiteoreblock.name": "Block of Scraphite",
+      "block.virolia.wayneleaves": "Wayne Log",
+      "tile.lurodirt.name": "Lurodirt",
+      "block.virolia.toreinumoreblock": "Block of Toreinum",
+      "block.virolia.lurocobblestone": "Lurocobblestone",
+      "tile.toreinumore.name": "Toreinum Ore",
+      "block.virolia.lurodirt": "Lurodirt",
+      "block.virolia.waynelog": "Wayne Log",
+      "item.virolia.name": "Portal Igniter",
+      "tile.mrozybluet.name": "Mrozy Bluet",
+      "tile.lurostone.name": "Lurostone",
+      "tile.waynelog.name": "Wayne Wood",
+      "biome.virolia.mironianplains": "Mironian Plains",
+      "item.virolia.scraphite": "Scraphite",
+      "block.virolia.wayneplanks": "Wayne Log",
+      "item.virolia.virolia": "Portal Igniter",
+      "block.virolia.scraphiteore": "Scraphite Ore",
+      "item.toreinumingot.name": "Toreinum",
+      "tile.lurograssblock.name": "Lurograss Block",
+      "tile.wayneleaves.name": "Wayne Log",
+      "tile.lurocobblestone.name": "Lurocobblestone"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "virolia",
+    "modName": "Virolia",
+    "version": "1.0.0",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "usesProFeatures": false,
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000105419
+}

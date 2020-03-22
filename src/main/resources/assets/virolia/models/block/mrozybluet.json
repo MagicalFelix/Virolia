@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "virolia:blocks/mozy_bluet",
+    "particle": "virolia:blocks/mozy_bluet"
+  }
+}
