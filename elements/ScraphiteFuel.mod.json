@@ -2,7 +2,7 @@
   "_fv": 5,
   "_type": "fuel",
   "definition": {
-    "power": 500,
+    "power": 5000,
     "block": {
       "value": "CUSTOM:Scraphite"
     }

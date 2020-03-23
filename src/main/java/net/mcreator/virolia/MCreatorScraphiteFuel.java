@@ -11,7 +11,7 @@ public class MCreatorScraphiteFuel extends Elementsvirolia.ModElement {
 	@Override
 	public int addFuel(ItemStack fuel) {
 		if (fuel.getItem() == new ItemStack(MCreatorScraphite.block, (int) (1)).getItem())
-			return 500;
+			return 5000;
 		return 0;
 	}
 }
